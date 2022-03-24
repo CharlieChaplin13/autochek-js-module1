@@ -1,0 +1,1 @@
+# autochek-js-module1
